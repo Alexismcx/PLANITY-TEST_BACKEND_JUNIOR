@@ -1,0 +1,15 @@
+{
+  "name": "planity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jest": "^27.0.3"
+  }
+}
